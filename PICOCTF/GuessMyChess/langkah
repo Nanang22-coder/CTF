@@ -1,0 +1,5 @@
+
+python3 run.py > list
+
+nc ...
+
