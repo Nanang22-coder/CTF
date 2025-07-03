@@ -1,0 +1,7 @@
+
+python3 run.py > list
+
+nc verbal-sleep.picoctf.net 54640
+
+
+youtube : https://youtu.be/PY8s2sOKgdg?si=HQd7sLq5JO6NZLTI
